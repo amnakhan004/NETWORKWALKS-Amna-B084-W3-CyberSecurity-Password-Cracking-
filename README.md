@@ -63,4 +63,16 @@ During Week 3 of the Networkwalks Cybersecurity Internship, I focused on passwor
 * **Use Strong Hashing Algorithms:** Systems should store credentials using modern, slow, salted hashing algorithms (such as `bcrypt`, `Argon2`, or `yescrypt`) rather than fast, legacy hashes.
 
 ---
+##  Ethical Disclaimer
+All password-cracking exercises and hash audits documented in this repository were conducted strictly within an authorized educational lab environment using sample files provided by Networkwalks Academy. Unauthorized password recovery or system access is illegal and unethical.
 
+##  Acknowledgment
+Special thanks to **Networkwalks Academy** and my mentor **Waqas Karim (CCIE)** for designing hands-on labs that bridge theoretical cryptography with practical security auditing.
+
+Compiled during Week 3 of the Networkwalks Cybersecurity Program (Batch B084).
+
+Amna Khan  
+
+Cybersecurity & Digital Forensics Student | Batch B084 
+
+LinkedIn:https://www.linkedin.com/in/amna-k-1b8ba83a9/ 
